@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ojeceer.markeldo.com/sitemap.xml
